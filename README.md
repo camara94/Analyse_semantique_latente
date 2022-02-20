@@ -28,3 +28,9 @@ dans ce tutoriel je vais scrapé cet article sur le Deep Learning à travers le 
 ## Le Code du Web Scraping En Python
 
 ![image](images/2.png)
+
+## Quelques Data Préprocessing
+
+### Suppression des Nombres
+
+![image](images/3.png)

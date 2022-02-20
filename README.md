@@ -86,8 +86,11 @@ Je vais utiliser le vectoriseur TF-IDF de scikit-learn pour prendre mon corpus e
 ![image](images/9.png)
 
 ## Liens Utils
+1.  [Latent semantic analysis](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcs.1254?casa_token=9ZNnFxW7j4wAAAAA%3AXQ1KAKPHx0v4YlLYHe5LW4OXhee6s-B2CfAOzb68JIjFob3zKlQUs8aVhQlaYXhNdnGK0TGEbW4X2qp_sg) 
+2.  [Comprende le package requests](https://www.datacamp.com/community/tutorials/making-http-requests-in-python?utm_source=adwords_ppc&utm_medium=cpc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=278443377086&utm_targetid=aud-299261629574:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=9075935&gclid=CjwKCAiAx8KQBhAGEiwAD3EiP7eGDVW4hMxOzOO8TQZ_XNyF9rPVbRiU0U6qjnZZ-piDzFH9kgz4dRoCqcYQAvD_BwE)
+3.  [https://www.crummy.com/software/BeautifulSoup/bs4/doc/](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+4. [https://pythonspot.com/nltk-stop-words/](https://pythonspot.com/nltk-stop-words/) 
+5. [https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
+6. [https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.ht](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.ht)
+   
 
-1. [https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.ht](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.ht)
-2. [https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
-3. [https://pythonspot.com/nltk-stop-words/](https://pythonspot.com/nltk-stop-words/)
-4. [Latent semantic analysis](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcs.1254?casa_token=9ZNnFxW7j4wAAAAA%3AXQ1KAKPHx0v4YlLYHe5LW4OXhee6s-B2CfAOzb68JIjFob3zKlQUs8aVhQlaYXhNdnGK0TGEbW4X2qp_sg)

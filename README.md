@@ -52,3 +52,5 @@ Les **Les Stopwords** sont des mots que je ne veux pas convertir en **features**
 Je vais utiliser le vectoriseur TF-IDF de scikit-learn pour prendre mon corpus et convertir chaque document en une matrice creuse de fonctionnalités TFIDF...
 
 ![image](images/6.png)
+
+## Entrainement de Notre Modèle TF-IDF Vectorizing

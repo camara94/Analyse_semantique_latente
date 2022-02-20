@@ -53,6 +53,10 @@ Je vais utiliser le vectoriseur TF-IDF de scikit-learn pour prendre mon corpus e
 
 ![image](images/6.png)
 
+* Le parmètre **stop_words**, permet de supprimer les **stopwords**
+* Le paramètre **ngram_range** permet de decomposer les termes en  **n_min:1** et **n_max**
+  dans notre cas ici.
+
 ## Entrainement de Notre Modèle TF-IDF Vectorizing
 
 ![image](images/7.png)

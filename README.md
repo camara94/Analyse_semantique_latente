@@ -24,3 +24,7 @@ Je vais vous montrer comment extraire mathématiquement des "concepts" de ce cor
 
 dans ce tutoriel je vais scrapé cet article sur le Deep Learning à travers le **site CNRS** Le Journal.
 [https://lejournal.cnrs.fr/billets/letonnante-acceptabilite-des-deep-fake](https://lejournal.cnrs.fr/billets/letonnante-acceptabilite-des-deep-fake)
+
+## Le Code du Web Scraping En Python
+
+![image](images/2.png)

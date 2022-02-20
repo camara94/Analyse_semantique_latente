@@ -68,7 +68,7 @@ Je vais utiliser le vectoriseur TF-IDF de scikit-learn pour prendre mon corpus e
 * **Processus :** Je vais décomposer X en matrices appelées U, S et T. Lorsque nous effectuons la décomposition, nous devons choisir une valeur k, c'est le nombre de concepts que nous allons conserver.
 
 <div style="width:150px; margin: 10px auto;">
-X = USV<sup>T</sup>
+                    X = USV<sup>T</sup>
 </div>
 
 * **U :** sera une matrice mxk. Les lignes seront des documents et les colonnes seront des **concepts**

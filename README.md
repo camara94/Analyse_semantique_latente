@@ -54,3 +54,5 @@ Je vais utiliser le vectoriseur TF-IDF de scikit-learn pour prendre mon corpus e
 ![image](images/6.png)
 
 ## Entrainement de Notre Modèle TF-IDF Vectorizing
+
+![image](images/7.png)

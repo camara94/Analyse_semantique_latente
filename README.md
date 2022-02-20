@@ -60,3 +60,15 @@ Je vais utiliser le vectoriseur TF-IDF de scikit-learn pour prendre mon corpus e
 ## Entrainement de Notre Modèle TF-IDF Vectorizing
 
 ![image](images/7.png)
+
+## LSA ( TruncatedSVD )
+
+* **Entrée : X**, une matrice où m est le nombre de documents que j'ai, et n est le nombre de termes
+
+* **Processus :** Je vais décomposer X en matrices appelées U, S et T. Lorsque nous effectuons la décomposition, nous devons choisir une valeur k, c'est le nombre de concepts que nous allons conserver.
+
+<div style="width:150px; margin: 10px auto;">X = ${USV}^T$</div>
+
+* **U :** sera une matrice mxk. Les lignes seront des documents et les colonnes seront des **concepts**
+* **S :** sera une matrice kxk. Les éléments seront la quantité de variation capturée à partir de chaque **concept**
+* **V :** sera une matrice mxk (attention à la transposition). la ligne sera les termes et les colonnes seront **concepts**

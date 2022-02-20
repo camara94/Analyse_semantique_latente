@@ -83,3 +83,5 @@ Je vais utiliser le vectoriseur TF-IDF de scikit-learn pour prendre mon corpus e
 
 ## Extraction des Termes et Concepts dans l'Articles
 
+![image](images/9.png)
+

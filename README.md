@@ -42,3 +42,5 @@ dans ce tutoriel je vais scrapé cet article sur le Deep Learning à travers le 
 ## Les Stopwords
 
 Les **Les Stopwords** sont des mots que je ne veux pas convertir en **features** ou variables, car ils ne sont pas particulièrement utiles. Des mots comme **a**, **et** et **le** sont de bons **Stopwords** en français. Je peux utiliser une liste intégrée de **Stopwords** de **nltk** pour commencer. 
+
+### 

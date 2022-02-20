@@ -13,3 +13,5 @@ Je vais vous montrer comment extraire mathématiquement des "concepts" de ce cor
 ![image](images/1.png)
 
 * **BeautifulSoup**: Je vais utiliser ce package pour le webscraping c'est à dire l'extraction des information à travers l'internet.
+  
+* **nltk**: ce package pour les manipulations l'inguistique et nettoyage des textes à analyser.

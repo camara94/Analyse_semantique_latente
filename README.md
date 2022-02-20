@@ -9,3 +9,5 @@ Dans ce projet, nous allons voir comment « extraire » des concepts à partir d
 Je vais vous montrer comment extraire mathématiquement des "concepts" de ce corpus. La technique que nous allons utiliser s'appelle "l'analyse sémantique latente".
 
 ## Les Packages Utilisés
+
+![image](images/1.png)

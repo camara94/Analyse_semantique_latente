@@ -17,3 +17,5 @@ Je vais vous montrer comment extraire mathématiquement des "concepts" de ce cor
 * **nltk**: ce package pour les manipulations l'inguistique et nettoyage des textes à analyser.
   
 * **TruncatedSVD**: pour la reduction de la dimensionnalité des matrices creuses.
+  
+* **TfidfVectorizer**: pour  le calcule ses fréquence des mots et termes dans les documents

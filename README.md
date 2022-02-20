@@ -34,3 +34,7 @@ dans ce tutoriel je vais scrapé cet article sur le Deep Learning à travers le 
 ### Suppression des Nombres
 
 ![image](images/3.png)
+
+### Suppression des Entités
+
+![images](images/4.png)

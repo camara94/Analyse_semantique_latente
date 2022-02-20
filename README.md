@@ -85,3 +85,9 @@ Je vais utiliser le vectoriseur TF-IDF de scikit-learn pour prendre mon corpus e
 
 ![image](images/9.png)
 
+## Liens Utils
+
+1. [https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.ht](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.ht)
+2. [https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
+3. [https://pythonspot.com/nltk-stop-words/](https://pythonspot.com/nltk-stop-words/)
+4. [Latent semantic analysis](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcs.1254?casa_token=9ZNnFxW7j4wAAAAA%3AXQ1KAKPHx0v4YlLYHe5LW4OXhee6s-B2CfAOzb68JIjFob3zKlQUs8aVhQlaYXhNdnGK0TGEbW4X2qp_sg)

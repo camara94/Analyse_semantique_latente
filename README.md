@@ -80,3 +80,6 @@ Je vais utiliser le vectoriseur TF-IDF de scikit-learn pour prendre mon corpus e
 ## Création et Entrainement du Modèle TruncatedSVD
 
 ![image](images/8.png)
+
+## Extraction des Termes et Concepts dans l'Articles
+

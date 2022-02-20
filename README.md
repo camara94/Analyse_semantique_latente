@@ -76,3 +76,7 @@ Je vais utiliser le vectoriseur TF-IDF de scikit-learn pour prendre mon corpus e
 * **U :** sera une matrice mxk. Les lignes seront des documents et les colonnes seront des **concepts**
 * **S :** sera une matrice kxk. Les éléments seront la quantité de variation capturée à partir de chaque **concept**
 * **V :** sera une matrice mxk (attention à la transposition). la ligne sera les termes et les colonnes seront **concepts**
+
+## Création et Entrainement du Modèle TruncatedSVD
+
+![image](images/8.png)
